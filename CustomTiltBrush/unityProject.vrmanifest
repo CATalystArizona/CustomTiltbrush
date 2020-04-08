@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.customtiltbrush.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\uaisp\\Documents\\GitHub\\Virtually\\CustomTiltBrush\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "CustomTiltBrush [Testing]"
+        }
+      }
+    }
+  ]
+}
